@@ -1,0 +1,3 @@
+The CPU within a computer aloows all other components to communicate to one another through itsekf. It's essentially the middle man, saying what to and what not to do. 
+One common theme of CPU's that's widely missunderstood is their clock speed. When this term is used, in simple terms, it's an internal clock that each core runs at. 
+I like to think of it like a pendulum that swings slower or faster depending on the CPU's running speed.
