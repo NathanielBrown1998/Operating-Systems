@@ -4,3 +4,4 @@ I like to think of it like a pendulum that swings slower or faster depending on 
 
 A GPU is a lot like an extension to the CPU. The way a GPU works, otherwise known as a graghics card, is it recieves information from the CPU. The GPU then decides what to do with that information, aka what to display on screen. The GPU then sends out that information to the connected monitor or display.
 
+The motherboard of a computer allows all hardware components of a computer to connect to one another. Without the motherboard, the CPU, GPU, hard drive, etc. would have no means to communicate to each other. It's the place where all the hardware components that make up your PC plug into.
